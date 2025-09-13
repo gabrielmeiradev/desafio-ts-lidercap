@@ -1,0 +1,13 @@
+✔ Entity creation @done
+✔ Repository creation @done
+    ✔ Contracts @done
+    ✔ For entities @done
+✔ Service creation @done
+    ✔ Contracts @done
+    ✔ For entities @done
+✔ Controllers @done
+✔ Exception system
+✔ Routes @done
+✔ Tests @done
+    ✔ Unit tests for services @done
+    ✔ Integration tests for controllers @done
