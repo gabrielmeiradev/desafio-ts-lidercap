@@ -121,15 +121,6 @@ npm run dev
 
 # Build for production
 npm run build
-
-# Run all tests
-npm test
-
-# Run tests in watch mode
-npm run test:watch
-
-# Generate coverage report
-npm run test:coverage
 ```
 
 ### Best Practices
@@ -138,12 +129,6 @@ npm run test:coverage
 - Use mocks and fixtures to isolate test cases.
 - Ensure high code coverage for critical modules.
 - Run tests before every commit and pull request.
-
-# Start production server
-
-```
-npm start
-```
 
 ## Project Structure
 
